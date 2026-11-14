@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue.svg" />
-  <img src="https://img.shields.io/badge/Platform-Linux-orange.svg" />
   <img src="https://img.shields.io/badge/Compiler-GCC-green.svg" />
   <img src="https://img.shields.io/badge/Project-Completed-success.svg" />
 </p>
@@ -37,7 +36,6 @@ The application uses modular programming and file handling to maintain records e
 ## 🛠️ Technology Stack
 
 - **Language:** C
-- **Operating System:** Linux
 - **Compiler:** GCC
 - **Programming Concepts:**
   - Structures and Pointers
